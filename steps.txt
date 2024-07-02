@@ -1,0 +1,7 @@
+1. create a folder where the project will be contained
+2. verify node is installed in your pc
+3. npm i express
+4. npm i mysql2
+5. npm i cors
+6. npm i nodemon
+7. run the server with "nodemon" as: npx nodemon index.js 
